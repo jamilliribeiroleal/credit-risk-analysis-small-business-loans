@@ -127,13 +127,6 @@ Mais do que medir a taxa geral de inadimplência, a análise ajuda a identificar
 
 ---
 
-# Artigo Completo
-Leia o artigo completo aqui:
-O que os dados revelam sobre inadimplência em crédito para pequenas empresas
-
-Autora: Jamilli Leal
-
-
 # Ferramentas Utilizadas
 - Python
 - Pandas
